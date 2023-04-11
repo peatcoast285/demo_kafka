@@ -1,5 +1,7 @@
 # Demo_Kafka_Confluent for Learning 
+this this example or template for studying about Kafka that setup on docker environment and if you need more information about this please following this before: https://developer.confluent.io/get-started/python/
 
+let's go!   
 
 ### Pre-request
 - WSL (Windows Sub-system Linux)
@@ -43,12 +45,12 @@ docker exec <kafka-container-name> kafka-topics --list --bootstrap-server localh
 
 ## Produce Events
 
-``` python run producer.py``` on virtualenv, and don't forget to cd directly to each a Lab directly on repository
+run on command-line``` python run producer.py``` on virtualenv, and don't forget to cd directly to each a Lab directly on repository.
 
 
 ## Consume Events
 
-``` python run Consumer.py``` on virtualenv, and don't forget to cd directly to each a Lab directly on repository
+run on command-line``` python run Consumer.py``` on virtualenv, and don't forget to cd directly to each a Lab directly on repository.
 
 
 Note that should be start with Lab_2 and Lab_3 
