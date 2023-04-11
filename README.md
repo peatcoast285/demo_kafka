@@ -54,7 +54,7 @@ run on command-line``` python run Consumer.py``` on virtualenv, and don't forget
 
 
 Note that should be start with Lab_2 and Lab_3 
-so, exercise is run any thing in directorie on Lab_1 at last. 
+so, exercise is trying to run anything in directorie on Lab_1 at last. 
 
 Good luck! 
 
