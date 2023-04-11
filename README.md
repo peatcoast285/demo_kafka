@@ -1,5 +1,6 @@
 # demo_kafka
 
 ## Entiring project environment
-activete use: 
-``` sources env/bin/activete ```
+activate environment use: 
+
+``` sources env/bin/activate ```
