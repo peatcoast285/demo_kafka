@@ -16,7 +16,7 @@ activate environment use:
 
 deactivate environment use:
 
-``` deactivate env/bin/deactivate```
+``` deactivate ```
 
 
 ## Running Kafka container 
