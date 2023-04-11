@@ -1,4 +1,4 @@
-# Demo_Kafka_Confluent for Learning 
+# Demo_Kafka_Confluent for Starter Learning 
 this this example or template for studying about Kafka that setup on docker environment and if you need more information about this please following this before: https://developer.confluent.io/get-started/python/
 
 let's go!   
@@ -7,7 +7,7 @@ let's go!
 - WSL (Windows Sub-system Linux)
 - Docker 
 
-## Entiring project environment
+## Entiring Project Environment
 This project uses the following environment variables on linux, so we can use the linux conmand-line for testing anything in our project. 
 
 activate environment use: 
