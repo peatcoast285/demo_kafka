@@ -41,5 +41,20 @@ And we will use the this command-line to show list of topics in kafka:
 docker exec <kafka-container-name> kafka-topics --list --bootstrap-server localhost:9092
 ```
 
+## Produce Events
+
+``` python run producer.py``` on virtualenv, and don't forget to cd directly to each a Lab directly on repository
+
+
+## Consume Events
+
+``` python run Consumer.py``` on virtualenv, and don't forget to cd directly to each a Lab directly on repository
+
+
+Note that should be start with Lab_2 and Lab_3 
+so, exercise is run any thing in directorie on Lab_1 at last. 
+
+Good luck! 
+
 
 
