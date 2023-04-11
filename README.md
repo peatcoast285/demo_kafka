@@ -31,14 +31,12 @@ Create a new topic, purchases, which we will use to produce and consume events.
 We'll use the kafka-topics command located inside the local running Kafka broker:
 
 
-``` docker compose exec broker kafka-topics --create --topic purchases --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1  
-
+```docker compose exec broker kafka-topics --create --topic purchases --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1  
 ```
 
 And we will use the this command-line to show list of topics in kafka:
 
 ```docker exec <kafka-container-name> kafka-topics --list --bootstrap-server localhost:9092
-
 ```
 
 
